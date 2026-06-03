@@ -13,6 +13,8 @@ This repository contains an **automated test suite for Escher**, a macOS desktop
 
 Scaffolded with the first scenario in draft form (`tests/chat/ec2_list.robot`). The draft has `TODO`s for app-side details (bundle ID, accessibility selectors, submit gesture) that need to be confirmed against the real Escher-Staging build before the suite can actually run. The user (`saitheja.thallam@tessell.com`) supplies scenarios and test cases — do not invent test scenarios or assume coverage requirements without being given them.
 
+**If resuming mid-task, read `RESUME.md` first.** It contains the current work checkpoint, the open questions awaiting user answer, and the concrete next steps.
+
 ## Layout
 
 ```
